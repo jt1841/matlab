@@ -1,4 +1,4 @@
-function [V, V_prime] = homework()
+function homework()
 
 g = 32.174; %ft/s^2
 H = 7 + 9; % ft
